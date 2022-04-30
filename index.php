@@ -1,5 +1,5 @@
 <?php
-echo 'Camera';
+$teste = "teste";
 ?>
 
 <!DOCTYPE html>

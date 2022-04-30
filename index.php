@@ -1,8 +1,5 @@
 <?php
 
-$teste = "aqui";
-echo $teste;
-
 ?>
 
 <!DOCTYPE html>
